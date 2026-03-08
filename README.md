@@ -5,7 +5,7 @@
 Graduei 3 anos de Enfermagem e tenho atuação no setor de saúde e tecnologia, em transição sólida para Análise e Engenharia de Dados. Experiente na criação de relatórios estratégicos, identificação de fragilidades operacionais e no desenvolvimento de sistemas para acompanhamento de produção. Tenho forte habilidade em mapear, identificar e criar fluxos eficientes, otimizando processos e apoiando a tomada de decisão. Domínio de Excel, Power BI e construção de soluções orientadas por dados. Trago o olhar humano e analítico da enfermagem aliado ao foco em dados, sempre buscando melhorar a eficiência, inovação e impacto real nos resultados.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/FavaroData?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
