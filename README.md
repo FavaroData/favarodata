@@ -24,6 +24,14 @@ Graduei 3 anos de Enfermagem e tenho atuação no setor de saúde e tecnologia, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" 
+/>
 
 <br/>
 <br/>
