@@ -4,6 +4,8 @@
 
 Graduei 3 anos de Enfermagem e tenho atuação no setor de saúde e tecnologia, em transição sólida para Análise e Engenharia de Dados. Experiente na criação de relatórios estratégicos, identificação de fragilidades operacionais e no desenvolvimento de sistemas para acompanhamento de produção. Tenho forte habilidade em mapear, identificar e criar fluxos eficientes, otimizando processos e apoiando a tomada de decisão. Domínio de Excel, Power BI e construção de soluções orientadas por dados. Trago o olhar humano e analítico da enfermagem aliado ao foco em dados, sempre buscando melhorar a eficiência, inovação e impacto real nos resultados.
 
+https://streak-stats.demolab.com/?user=favarodata&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
