@@ -28,12 +28,3 @@ Graduei 3 anos de Enfermagem, com experiência em saúde ocupanional, assistenci
 
 <br/>
 <br/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=favarodata&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
