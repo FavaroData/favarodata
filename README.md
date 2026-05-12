@@ -2,7 +2,7 @@
 
 **`Analista de Suporte e Desenvolvedor`**
 
-Graduei 3 anos em Enfermagem, com experiência em saúde ocupacional, assistencial e pública. Com atuação em tecnologia, em transição sólida para Análise e Engenharia de Dados. Experiente na criação de relatórios estratégicos, identificação de fragilidades operacionais, desenvolvimento de sistemas para acompanhamento de produção e melhoria de fluxos. Tenho forte habilidade em mapear, identificar e criar fluxos eficientes, otimizando processos e apoiando a tomada de decisão. Domínio de Excel, Power BI e construção de soluções orientadas por dados. Trago o olhar humano e analítico da enfermagem aliado ao foco em dados, sempre buscando melhorar a eficiência, inovação e impacto real nos resultados.
+Graduei 3 anos em Enfermagem, com experiência em saúde ocupacional, assistencial e pública. Com atuação em tecnologia, em transição para Análise e Desenvolvimento de Softwares, e correlatos com dados. Experiente na criação de relatórios estratégicos, identificação de fragilidades operacionais, desenvolvimento de sistemas para acompanhamento de produção e melhoria de fluxos. Tenho forte habilidade em mapear, identificar e criar fluxos eficientes, otimizando processos e apoiando a tomada de decisão. Domínio de Excel, Power BI e construção de soluções orientadas por dados. Trago o olhar humano e analítico da enfermagem aliado ao foco em dados, sempre buscando melhorar a eficiência, inovação e impacto real nos resultados.
 
 ---
 
