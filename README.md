@@ -18,7 +18,6 @@ Graduei 3 anos em Enfermagem, com experiência em saúde ocupacional, assistenci
 
 **Sistemas & Suporte Técnico**
 
-![ERP Tasy](https://img.shields.io/badge/ERP_Tasy-005B96?style=for-the-badge&logo=databricks&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
