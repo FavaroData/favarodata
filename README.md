@@ -27,8 +27,6 @@ Graduei 3 anos em Enfermagem, com experiência em saúde ocupacional, assistenci
 
 **Ferramentas & Automação**
 
-![PostScript](https://img.shields.io/badge/PostScript-000000?style=for-the-badge&logo=adobe&logoColor=white)
-![GhostScript](https://img.shields.io/badge/GhostScript-D3232E?style=for-the-badge&logo=ghost&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
